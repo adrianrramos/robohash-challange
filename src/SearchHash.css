@@ -1,0 +1,18 @@
+.search__container {
+	padding: 0 2rem;
+	font-weight: 700;
+	font-size: 18px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.search__container > label {
+	flex: 1;
+	text-align: left;
+}
+
+.search__container > input {
+	padding: 5px;
+	flex: 2;
+}
